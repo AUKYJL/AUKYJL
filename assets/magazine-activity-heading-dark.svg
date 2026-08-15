@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" role="img" aria-labelledby="title desc">
+  <title id="title">Recent activity section heading</title>
+  <desc id="desc">Dark editorial section heading for the recent activity block.</desc>
+  <rect width="1200" height="96" fill="#0D1117"/>
+  <line x1="32" y1="33" x2="1168" y2="33" stroke="#30363D"/>
+  <text x="48" y="78" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" letter-spacing="1.2">10 / RECENT ACTIVITY</text>
+</svg>

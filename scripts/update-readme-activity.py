@@ -23,7 +23,7 @@ USERNAME = "AUKYJL"
 DEFAULT_ROWS = 5
 COMMITS_PER_REPO = 3
 REQUEST_TIMEOUT = 30
-HEADER_LINE = "<sub>10 / RECENT ACTIVITY</sub>"
+HEADER_LINE = '<img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">'
 
 
 @dataclass(frozen=True)

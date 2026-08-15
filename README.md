@@ -43,7 +43,7 @@
 <!-- MAGAZINE:END CHESS_BOUNDARY -->
 
 <!-- MAGAZINE:BEGIN OTHER_WORK -->
-<sub>05 / OTHER WORK</sub>
+<img src="assets/magazine-other-work-heading-dark.svg" alt="Editorial heading for other work." width="100%">
 <p align="left">
   <a href="https://github.com/AUKYJL/krkp-fe">
     <img src="assets/other-work-taxifleet.svg" alt="TaxiFleet Pro frontend project card" width="32%">
@@ -64,14 +64,10 @@
 <!-- MAGAZINE:END WORKING_SET -->
 
 <!-- MAGAZINE:BEGIN ACTIVITY -->
-<sub>10 / RECENT ACTIVITY</sub>
+<img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-07-16  COMMIT  rialtorg-v2  28619d4  init
-2026-06-24  COMMIT  url-checker  372267f  feat(front): add tooltip
-2026-06-24  COMMIT  url-checker  51617dc  feat(front): fetch pending urls on cancelled job
-2026-06-24  COMMIT  url-checker  1ec76c3  fix: fix job urls detail on cancel
-2026-06-11  COMMIT  krkp-be      147b514  docs: add README.md
+2026-08-15  CREATE  AUKYJL               branch main
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
