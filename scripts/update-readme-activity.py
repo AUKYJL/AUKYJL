@@ -79,6 +79,10 @@ def repo_slug(full_name: str) -> str:
     return full_name.rsplit("/", 1)[-1]
 
 
+def row_dedupe_key(row: ActivityRow) -> tuple[str, str, str, str]:
+    return (row.action, row.repo, row.short_sha, row.subject)
+
+
 def row_from_event(event: dict[str, object]) -> list[ActivityRow]:
     event_type = str(event.get("type") or "")
     repo_name = repo_slug(str((event.get("repo") or {}).get("name") or ""))
@@ -92,19 +96,7 @@ def row_from_event(event: dict[str, object]) -> list[ActivityRow]:
     date = timestamp.date().isoformat()
 
     if event_type == "PushEvent":
-        rows = []
-        commits = payload.get("commits") or []
-        if not isinstance(commits, list):
-            return []
-        for commit in reversed(commits):
-            if not isinstance(commit, dict):
-                continue
-            sha = str(commit.get("sha") or "")[:7]
-            subject = clean_subject(str(commit.get("message") or ""))
-            if not sha or not subject:
-                continue
-            rows.append(ActivityRow(date=date, action="PUSH", repo=repo_name, short_sha=sha, subject=subject, sort_key=timestamp))
-        return rows
+        return []
 
     subject = ""
     action = ""
@@ -177,7 +169,7 @@ def collect_event_rows(limit: int) -> list[ActivityRow]:
         if not isinstance(event, dict):
             continue
         for row in row_from_event(event):
-            dedupe_key = (row.action, row.repo, row.short_sha, row.subject)
+            dedupe_key = row_dedupe_key(row)
             if dedupe_key in seen:
                 continue
             seen.add(dedupe_key)
@@ -217,6 +209,11 @@ def collect_commit_rows(limit: int) -> list[ActivityRow]:
         for commit in commits:
             if not isinstance(commit, dict):
                 continue
+            author_info = commit.get("author") or {}
+            if not isinstance(author_info, dict):
+                continue
+            if str(author_info.get("login") or "").casefold() != USERNAME.casefold():
+                continue
             metadata = commit.get("commit") or {}
             if not isinstance(metadata, dict):
                 continue
@@ -244,9 +241,9 @@ def collect_commit_rows(limit: int) -> list[ActivityRow]:
     rows.sort(key=lambda row: row.sort_key, reverse=True)
 
     deduped: list[ActivityRow] = []
-    seen: set[tuple[str, str]] = set()
+    seen: set[tuple[str, str, str, str]] = set()
     for row in rows:
-        dedupe_key = (row.repo, row.short_sha)
+        dedupe_key = row_dedupe_key(row)
         if dedupe_key in seen:
             continue
         seen.add(dedupe_key)
@@ -258,11 +255,22 @@ def collect_commit_rows(limit: int) -> list[ActivityRow]:
 
 def build_activity_rows(limit: int = DEFAULT_ROWS) -> tuple[list[ActivityRow], str]:
     event_rows = collect_event_rows(limit)
-    if event_rows:
-        return event_rows[:limit], "events"
-
     commit_rows = collect_commit_rows(limit)
-    return commit_rows[:limit], "commits"
+    rows = event_rows + commit_rows
+    rows.sort(key=lambda row: row.sort_key, reverse=True)
+
+    deduped: list[ActivityRow] = []
+    seen: set[tuple[str, str, str, str]] = set()
+    for row in rows:
+        dedupe_key = row_dedupe_key(row)
+        if dedupe_key in seen:
+            continue
+        seen.add(dedupe_key)
+        deduped.append(row)
+        if len(deduped) >= limit:
+            break
+
+    return deduped, "events+commits"
 
 
 def render_block(rows: list[ActivityRow]) -> str:
