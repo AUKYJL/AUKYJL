@@ -43,8 +43,18 @@
 <!-- MAGAZINE:END CHESS_BOUNDARY -->
 
 <!-- MAGAZINE:BEGIN OTHER_WORK -->
-<img src="assets/magazine-other-work-row-dark.svg" alt="Editorial two-column grid for other work with a left section label, two project cards on the top row, and one project card on the lower left." width="100%">
-<p align="left"><sub>TaxiFleet Pro: <a href="https://github.com/AUKYJL/krkp-fe">frontend</a> / <a href="https://github.com/AUKYJL/krkp-be">backend</a> · URL Checker: <a href="https://github.com/AUKYJL/url-checker">repository</a> · Rialtorg v2: <a href="https://github.com/AUKYJL/rialtorg-v2">repository</a></sub></p>
+<sub>05 / OTHER WORK</sub>
+<p align="left">
+  <a href="https://github.com/AUKYJL/krkp-fe">
+    <img src="assets/other-work-taxifleet.svg" alt="TaxiFleet Pro frontend project card" width="32%">
+  </a>
+  <a href="https://github.com/AUKYJL/url-checker">
+    <img src="assets/other-work-url-checker.svg" alt="URL Checker project card" width="32%">
+  </a>
+  <a href="https://github.com/AUKYJL/rialtorg-v2">
+    <img src="assets/other-work-rialtorg.svg" alt="Rialtorg v2 project card" width="32%">
+  </a>
+</p>
 <!-- MAGAZINE:END OTHER_WORK -->
 
 <!-- MAGAZINE:BEGIN HOW_I_BUILD -->

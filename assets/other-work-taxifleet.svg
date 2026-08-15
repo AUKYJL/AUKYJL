@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+  <title id="title">TaxiFleet Pro frontend project card</title>
+  <desc id="desc">Dark editorial card for TaxiFleet Pro with frontend technology labels and a view frontend call to action.</desc>
+  <rect width="360" height="220" rx="10" fill="#0D1117"/>
+  <rect x="1" y="1" width="358" height="218" rx="9" fill="none" stroke="#8B949E" stroke-width="1.2"/>
+  <text x="24" y="40" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="1.6">01</text>
+  <text x="24" y="84" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="34" letter-spacing="1.1">TAXIFLEET PRO</text>
+  <text x="24" y="116" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5">
+    <tspan x="24" dy="0">Fullstack fleet-management product.</tspan>
+  </text>
+  <text x="24" y="146" fill="#F0F6FC" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5">
+    <tspan x="24" dy="0">React / TypeScript</tspan>
+    <tspan x="24" dy="20">NestJS / PostgreSQL</tspan>
+  </text>
+  <line x1="24" y1="188" x2="336" y2="188" stroke="#30363D"/>
+  <text x="24" y="209" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" letter-spacing="0.4">VIEW FRONTEND ↗</text>
+</svg>

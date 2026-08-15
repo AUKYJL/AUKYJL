@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+  <title id="title">URL Checker project card</title>
+  <desc id="desc">Dark editorial card for URL Checker with a concise repository description and a view repository call to action.</desc>
+  <rect width="360" height="220" rx="10" fill="#0D1117"/>
+  <rect x="1" y="1" width="358" height="218" rx="9" fill="none" stroke="#8B949E" stroke-width="1.2"/>
+  <text x="24" y="40" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="1.6">02</text>
+  <text x="24" y="84" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="34" letter-spacing="1.1">URL CHECKER</text>
+  <text x="24" y="116" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5">
+    <tspan x="24" dy="0">Web utility / tooling</tspan>
+  </text>
+  <line x1="24" y1="188" x2="336" y2="188" stroke="#30363D"/>
+  <text x="24" y="209" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" letter-spacing="0.4">VIEW REPOSITORY ↗</text>
+</svg>
