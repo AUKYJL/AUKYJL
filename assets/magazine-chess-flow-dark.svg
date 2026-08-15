@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Chess Coach Copilot product flow from annotated PGN to coaching outputs</title>
+  <desc id="desc">A dark editorial pipeline showing four stages: game input, extracted engine signals, pedagogical interpretation, and coaching outputs.</desc>
+  <rect width="1200" height="240" fill="#0D1117"/>
+  <line x1="32" y1="34" x2="1168" y2="34" stroke="#30363D"/>
+  <line x1="32" y1="226" x2="1168" y2="226" stroke="#30363D"/>
+  <line x1="260" y1="58" x2="260" y2="202" stroke="#30363D"/>
+  <defs>
+    <g id="flow-arrow" fill="none" stroke="#F0F6FC" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M0 0 H48"/>
+      <path d="M32 -14 L48 0 L32 14"/>
+    </g>
+  </defs>
+
+  <text x="48" y="72" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" letter-spacing="1.2">04 / FLOW</text>
+
+  <g transform="translate(284 92)">
+    <text x="0" y="0" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="24" letter-spacing="1">01 / GAME</text>
+    <text x="0" y="34" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">Annotated PGN</text>
+  </g>
+
+  <g transform="translate(488 92)">
+    <text x="0" y="0" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="24" letter-spacing="1">02 / SIGNALS</text>
+    <text x="0" y="34" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      <tspan x="0" dy="0">Engine comments</tspan>
+      <tspan x="0" dy="24">Evaluations</tspan>
+      <tspan x="0" dy="24">Mistakes</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(716 92)">
+    <text x="0" y="0" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="24" letter-spacing="1">03 / PEDAGOGY</text>
+    <text x="0" y="34" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      <tspan x="0" dy="0">Critical moments</tspan>
+      <tspan x="0" dy="24">Mistake patterns</tspan>
+      <tspan x="0" dy="24">Training tags</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(976 92)">
+    <text x="0" y="0" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="24" letter-spacing="1">04 / OUTPUT</text>
+    <text x="0" y="34" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      <tspan x="0" dy="0">Lesson topic</tspan>
+      <tspan x="0" dy="24">Homework</tspan>
+      <tspan x="0" dy="24">Coach report</tspan>
+      <tspan x="0" dy="24">Parent report</tspan>
+    </text>
+  </g>
+
+  <use href="#flow-arrow" transform="translate(425 78)"/>
+  <use href="#flow-arrow" transform="translate(651 78)"/>
+  <use href="#flow-arrow" transform="translate(909 78)"/>
+</svg>

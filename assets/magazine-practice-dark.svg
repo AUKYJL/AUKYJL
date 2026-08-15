@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">AUKYJL Developer Magazine Practice Dark</title>
+  <desc id="desc">Editorial practice section describing fullstack web product development with React, Next.js, TypeScript, and NestJS.</desc>
+  <rect width="1200" height="340" fill="#0D1117"/>
+  <line x1="32" y1="33" x2="1168" y2="33" stroke="#30363D"/>
+  <text x="48" y="78" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" letter-spacing="1.2">01 / PRACTICE</text>
+  <line x1="260" y1="74" x2="260" y2="276" stroke="#30363D"/>
+  <text x="296" y="126" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="33" letter-spacing="0.15">I BUILD FULLSTACK WEB PRODUCTS</text>
+  <text x="296" y="172" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="33" letter-spacing="0.15">WITH A FOCUSED STACK.</text>
+  <text x="296" y="220" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.1">React / Next.js / TypeScript / NestJS</text>
+  <text x="780" y="122" fill="#F0F6FC" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+    <tspan x="780" dy="0">The stack is a set of tools.</tspan>
+    <tspan x="780" dy="30">The interesting part is making</tspan>
+    <tspan x="780" dy="30">the interface, application logic,</tspan>
+    <tspan x="780" dy="30">APIs and data work together</tspan>
+    <tspan x="780" dy="30">as one product.</tspan>
+  </text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 144" role="img" aria-labelledby="title desc">
+  <title id="title">AUKYJL editorial footer</title>
+  <desc id="desc">Dark footer for the README magazine layout with the AUKYJL wordmark, role lines, GitHub and Telegram links, and the issue date.</desc>
+  <rect width="1200" height="144" fill="#0D1117"/>
+  <line x1="32" y1="18" x2="1168" y2="18" stroke="#30363D"/>
+  <line x1="32" y1="126" x2="1168" y2="126" stroke="#30363D"/>
+  <line x1="356" y1="34" x2="356" y2="110" stroke="#30363D"/>
+  <line x1="844" y1="34" x2="844" y2="110" stroke="#30363D"/>
+
+  <text x="48" y="102" fill="#F0F6FC" font-family="'Avenir Next Condensed', 'Arial Narrow', 'PT Sans Narrow', sans-serif" font-size="66" font-weight="600" letter-spacing="1.4" textLength="210" lengthAdjust="spacingAndGlyphs">AUKYJL</text>
+
+  <g text-anchor="middle">
+    <text x="600" y="62" fill="#F0F6FC" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="21" letter-spacing="1.4">FULLSTACK DEVELOPER</text>
+    <text x="600" y="90" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" letter-spacing="1">REACT / NEXT.JS / NESTJS</text>
+  </g>
+
+  <g text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+    <a href="https://github.com/AUKYJL">
+      <text x="1152" y="58" fill="#58A6FF" font-size="19" letter-spacing="1">GITHUB ↗</text>
+    </a>
+    <a href="https://t.me/AUKYJL">
+      <text x="1152" y="84" fill="#58A6FF" font-size="19" letter-spacing="1">TELEGRAM ↗</text>
+    </a>
+    <text x="1152" y="112" fill="#8B949E" font-size="17" letter-spacing="1.1">2026 / END OF ISSUE 001</text>
+  </g>
+</svg>

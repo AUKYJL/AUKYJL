@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 352" role="img" aria-labelledby="title desc">
+  <title id="title">AUKYJL Developer Magazine Core Stack Light</title>
+  <desc id="desc">Editorial core stack section with three equal cards for React, Next.js, and NestJS.</desc>
+  <rect width="1200" height="352" fill="#FFFFFF"/>
+  <line x1="32" y1="33" x2="1168" y2="33" stroke="#D0D7DE"/>
+  <text x="48" y="78" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" letter-spacing="1.2">02 / STACK</text>
+  <line x1="260" y1="74" x2="260" y2="276" stroke="#D0D7DE"/>
+  <g transform="translate(330 66)">
+    <rect x="0" y="0" width="248" height="250" rx="8" fill="none" stroke="#D0D7DE"/>
+    <text x="20" y="36" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">01</text>
+    <text x="20" y="96" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="56" letter-spacing="1.2">REACT</text>
+    <text x="20" y="136" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      <tspan x="20" dy="0">TypeScript</tspan>
+      <tspan x="20" dy="26">Zustand</tspan>
+      <tspan x="20" dy="26">Tailwind</tspan>
+    </text>
+    <line x1="0" y1="214" x2="248" y2="214" stroke="#D0D7DE"/>
+    <text x="20" y="238" fill="#0969DA" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="0.6">INTERFACE / STATE</text>
+  </g>
+  <g transform="translate(610 66)">
+    <rect x="0" y="0" width="248" height="250" rx="8" fill="none" stroke="#D0D7DE"/>
+    <text x="20" y="36" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">02</text>
+    <text x="20" y="96" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="56" letter-spacing="1.2">NEXT.JS</text>
+    <text x="20" y="136" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      <tspan x="20" dy="0">React</tspan>
+      <tspan x="20" dy="26">TypeScript</tspan>
+      <tspan x="20" dy="26">Routing</tspan>
+    </text>
+    <line x1="0" y1="214" x2="248" y2="214" stroke="#D0D7DE"/>
+    <text x="20" y="238" fill="#0969DA" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="0.6">FULLSTACK WEB</text>
+  </g>
+  <g transform="translate(890 66)">
+    <rect x="0" y="0" width="248" height="250" rx="8" fill="none" stroke="#D0D7DE"/>
+    <text x="20" y="36" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">03</text>
+    <text x="20" y="96" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="56" letter-spacing="1.2">NESTJS</text>
+    <text x="20" y="136" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      <tspan x="20" dy="0">Node.js</tspan>
+      <tspan x="20" dy="26">Prisma</tspan>
+      <tspan x="20" dy="26">PostgreSQL</tspan>
+    </text>
+    <line x1="0" y1="214" x2="248" y2="214" stroke="#D0D7DE"/>
+    <text x="20" y="238" fill="#0969DA" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="0.6">API / DATA</text>
+  </g>
+</svg>

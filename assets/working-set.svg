@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">AUKYJL Developer Magazine Stack Override</title>
+  <desc id="desc">Dark editorial stack composition with four dominant technologies on the top row, a supporting middle row, and a smaller exploratory tool row below.</desc>
+  <rect width="1200" height="400" fill="#0D1117"/>
+  <line x1="32" y1="32" x2="1168" y2="32" stroke="#30363D"/>
+  <line x1="32" y1="384" x2="1168" y2="384" stroke="#30363D"/>
+  <text x="48" y="78" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" letter-spacing="1.2">02 / STACK</text>
+
+  <g fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <g transform="translate(48 172)">
+      <text font-size="94" transform="scale(0.50 1)">REACT</text>
+    </g>
+    <g transform="translate(266 172)">
+      <text font-size="94" transform="scale(0.52 1)">TYPESCRIPT</text>
+    </g>
+    <g transform="translate(644 172)">
+      <text font-size="94" transform="scale(0.49 1)">NESTJS</text>
+    </g>
+    <g transform="translate(872 172)">
+      <text font-size="94" transform="scale(0.46 1)">POSTGRESQL</text>
+    </g>
+  </g>
+
+  <g stroke="#30363D">
+    <line x1="242" y1="98" x2="242" y2="182"/>
+    <line x1="620" y1="98" x2="620" y2="182"/>
+    <line x1="848" y1="98" x2="848" y2="182"/>
+  </g>
+
+  <line x1="48" y1="204" x2="1152" y2="204" stroke="#21262D"/>
+
+  <g fill="#C6CED6" font-family="Arial, Helvetica, sans-serif" font-weight="400">
+    <g transform="translate(48 274)">
+      <text font-size="46" transform="scale(0.54 1)">NEXT.JS</text>
+    </g>
+    <g transform="translate(218 274)">
+      <text font-size="46" transform="scale(0.42 1)">TANSTACK QUERY</text>
+    </g>
+    <g transform="translate(466 274)">
+      <text font-size="46" transform="scale(0.53 1)">PRISMA</text>
+    </g>
+    <g transform="translate(614 274)">
+      <text font-size="46" transform="scale(0.47 1)">BULLMQ</text>
+    </g>
+    <g transform="translate(766 274)">
+      <text font-size="46" transform="scale(0.50 1)">REDIS</text>
+    </g>
+    <g transform="translate(898 274)">
+      <text font-size="46" transform="scale(0.46 1)">DOCKER</text>
+    </g>
+    <g transform="translate(1050 274)">
+      <text font-size="46" transform="scale(0.34 1)">KUBERNETES</text>
+    </g>
+  </g>
+
+  <g stroke="#30363D">
+    <line x1="194" y1="222" x2="194" y2="284"/>
+    <line x1="442" y1="222" x2="442" y2="284"/>
+    <line x1="590" y1="222" x2="590" y2="284"/>
+    <line x1="742" y1="222" x2="742" y2="284"/>
+    <line x1="874" y1="222" x2="874" y2="284"/>
+    <line x1="1026" y1="222" x2="1026" y2="284"/>
+  </g>
+
+  <line x1="48" y1="314" x2="1152" y2="314" stroke="#30363D" stroke-dasharray="2 8"/>
+  <text x="600" y="362" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="1.8" text-anchor="middle" textLength="860" lengthAdjust="spacingAndGlyphs">PIXIJS | WEBGL | D3.JS | GSAP | FRAMER MOTION | RABBITMQ | OPENAI</text>
+</svg>

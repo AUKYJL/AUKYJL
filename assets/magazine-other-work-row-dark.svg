@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Other work editorial grid</title>
+  <desc id="desc">A dark editorial two-column grid for other work with a left section label, two cards on the top row, one card on the bottom-left, and an intentionally empty lower-right area.</desc>
+  <rect width="1200" height="390" fill="#0D1117"/>
+  <line x1="32" y1="16" x2="1168" y2="16" stroke="#30363D"/>
+  <line x1="32" y1="374" x2="1168" y2="374" stroke="#30363D"/>
+  <line x1="312" y1="28" x2="312" y2="362" stroke="#30363D"/>
+  <line x1="332" y1="194" x2="1076" y2="194" stroke="#21262D"/>
+  <text x="48" y="60" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" letter-spacing="1.2">05 / OTHER WORK</text>
+
+  <g transform="translate(332 36)">
+    <rect x="0" y="0" width="352" height="148" fill="none" stroke="#8B949E" stroke-width="1.2"/>
+    <text x="22" y="42" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="30" letter-spacing="1">TAXIFLEET PRO</text>
+    <text x="22" y="72" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <tspan x="22" dy="0">Fullstack fleet-management product.</tspan>
+    </text>
+    <text x="22" y="100" fill="#F0F6FC" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <tspan x="22" dy="0">React / TypeScript</tspan>
+      <tspan x="22" dy="18">NestJS / PostgreSQL</tspan>
+    </text>
+    <text x="22" y="136" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="0.35">
+      <tspan x="22" dy="0">FRONTEND ↗   BACKEND ↗</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(724 36)">
+    <rect x="0" y="0" width="352" height="148" fill="none" stroke="#8B949E" stroke-width="1.2"/>
+    <text x="22" y="42" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="30" letter-spacing="1">URL CHECKER</text>
+    <text x="22" y="72" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <tspan x="22" dy="0">Web utility / tooling</tspan>
+    </text>
+    <text x="22" y="122" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="0.35">
+      <tspan x="22" dy="0">VIEW REPOSITORY ↗</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(332 214)">
+    <rect x="0" y="0" width="352" height="148" fill="none" stroke="#8B949E" stroke-width="1.2"/>
+    <text x="22" y="42" fill="#F0F6FC" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="30" letter-spacing="1">RIALTORG V2</text>
+    <text x="22" y="72" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <tspan x="22" dy="0">Frontend project</tspan>
+    </text>
+    <text x="22" y="122" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="0.35">
+      <tspan x="22" dy="0">VIEW REPOSITORY ↗</tspan>
+    </text>
+  </g>
+</svg>

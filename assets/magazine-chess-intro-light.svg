@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">AUKYJL Developer Magazine Chess Coach Copilot Intro Light</title>
+  <desc id="desc">Editorial featured case introducing Chess Coach Copilot as an AI assistant for chess coaches that turns student games into material for the next lesson.</desc>
+  <rect width="1200" height="500" fill="#FFFFFF"/>
+  <line x1="32" y1="33" x2="1168" y2="33" stroke="#D0D7DE"/>
+  <line x1="32" y1="448" x2="1168" y2="448" stroke="#D0D7DE"/>
+  <line x1="340" y1="112" x2="340" y2="420" stroke="#D0D7DE"/>
+  <line x1="712" y1="112" x2="712" y2="420" stroke="#D0D7DE"/>
+  <text x="48" y="78" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" letter-spacing="1.2">03 / FEATURED CASE</text>
+  <text x="40" y="186" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="72" letter-spacing="1.4">CHESS</text>
+  <text x="40" y="272" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="72" letter-spacing="1.4">COACH</text>
+  <text x="40" y="358" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="72" letter-spacing="1.4">COPILOT.</text>
+  <text x="366" y="146" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" letter-spacing="1.2">CASE / 001</text>
+  <text x="366" y="178" fill="#0969DA" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="1.1">PRODUCT ENGINEERING</text>
+  <text x="366" y="250" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="39" letter-spacing="1.1">AI ASSISTANT FOR</text>
+  <text x="366" y="298" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="39" letter-spacing="1.1">CHESS COACHES</text>
+  <text x="366" y="350" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="19">
+    <tspan x="366" dy="0">Turns student games</tspan>
+    <tspan x="366" dy="28">into material for</tspan>
+    <tspan x="366" dy="28">the next lesson.</tspan>
+  </text>
+  <g transform="translate(776 132)">
+    <g transform="translate(-44 0)">
+      <text x="0" y="24" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="1">ENGINE ANALYSIS</text>
+      <text x="0" y="58" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="26">13...hxg5??</text>
+      <text x="0" y="88" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="22" letter-spacing="1">BLUNDER</text>
+      <text x="0" y="114" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">best: 13...g6</text>
+      <g transform="translate(12 130)">
+        <text x="-12" y="12" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">8</text>
+        <text x="-12" y="27" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">7</text>
+        <text x="-12" y="42" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">6</text>
+        <text x="-12" y="57" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">5</text>
+        <text x="-12" y="72" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">4</text>
+        <text x="-12" y="87" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">3</text>
+        <text x="-12" y="102" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">2</text>
+        <text x="-12" y="117" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">1</text>
+        <rect x="0" y="0" width="14" height="14" fill="#1F2328"/>
+        <rect x="14" y="0" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="28" y="0" width="14" height="14" fill="#1F2328"/>
+        <rect x="42" y="0" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="56" y="0" width="14" height="14" fill="#1F2328"/>
+        <rect x="70" y="0" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="84" y="0" width="14" height="14" fill="#1F2328"/>
+        <rect x="98" y="0" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="0" y="14" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="14" y="14" width="14" height="14" fill="#1F2328"/>
+        <rect x="28" y="14" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="42" y="14" width="14" height="14" fill="#1F2328"/>
+        <rect x="56" y="14" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="70" y="14" width="14" height="14" fill="#1F2328"/>
+        <rect x="84" y="14" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="98" y="14" width="14" height="14" fill="#1F2328"/>
+        <rect x="0" y="28" width="14" height="14" fill="#1F2328"/>
+        <rect x="14" y="28" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="28" y="28" width="14" height="14" fill="#1F2328"/>
+        <rect x="42" y="28" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="56" y="28" width="14" height="14" fill="#1F2328"/>
+        <rect x="70" y="28" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="84" y="28" width="14" height="14" fill="#1F2328"/>
+        <rect x="98" y="28" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="0" y="42" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="14" y="42" width="14" height="14" fill="#1F2328"/>
+        <rect x="28" y="42" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="42" y="42" width="14" height="14" fill="#1F2328"/>
+        <rect x="56" y="42" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="70" y="42" width="14" height="14" fill="#1F2328"/>
+        <rect x="84" y="42" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="98" y="42" width="14" height="14" fill="#1F2328"/>
+        <rect x="0" y="56" width="14" height="14" fill="#1F2328"/>
+        <rect x="14" y="56" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="28" y="56" width="14" height="14" fill="#1F2328"/>
+        <rect x="42" y="56" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="56" y="56" width="14" height="14" fill="#1F2328"/>
+        <rect x="70" y="56" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="84" y="56" width="14" height="14" fill="#1F2328"/>
+        <rect x="98" y="56" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="0" y="70" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="14" y="70" width="14" height="14" fill="#1F2328"/>
+        <rect x="28" y="70" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="42" y="70" width="14" height="14" fill="#1F2328"/>
+        <rect x="56" y="70" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="70" y="70" width="14" height="14" fill="#1F2328"/>
+        <rect x="84" y="70" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="98" y="70" width="14" height="14" fill="#1F2328"/>
+        <rect x="0" y="84" width="14" height="14" fill="#1F2328"/>
+        <rect x="14" y="84" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="28" y="84" width="14" height="14" fill="#1F2328"/>
+        <rect x="42" y="84" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="56" y="84" width="14" height="14" fill="#1F2328"/>
+        <rect x="70" y="84" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="84" y="84" width="14" height="14" fill="#1F2328"/>
+        <rect x="98" y="84" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="0" y="98" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="14" y="98" width="14" height="14" fill="#1F2328"/>
+        <rect x="28" y="98" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="42" y="98" width="14" height="14" fill="#1F2328"/>
+        <rect x="56" y="98" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="70" y="98" width="14" height="14" fill="#1F2328"/>
+        <rect x="84" y="98" width="14" height="14" fill="#F6F8FA"/>
+        <rect x="98" y="98" width="14" height="14" fill="#1F2328"/>
+        <text x="4" y="128" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">a</text>
+        <text x="18" y="128" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">b</text>
+        <text x="32" y="128" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">c</text>
+        <text x="46" y="128" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">d</text>
+        <text x="60" y="128" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">e</text>
+        <text x="74" y="128" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">f</text>
+        <text x="88" y="128" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">g</text>
+        <text x="102" y="128" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">h</text>
+      </g>
+      <text x="138" y="108" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="0.8">ENGINE SIGNAL</text>
+      <path d="M140 158 H186 M172 144 L186 158 L172 172" fill="none" stroke="#1F2328" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+    </g>
+    <g>
+      <line x1="198" y1="14" x2="198" y2="220" stroke="#D0D7DE"/>
+      <text x="208" y="24" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="1">COACH COPILOT</text>
+      <text x="208" y="58" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="18" letter-spacing="0.9">OPENED LINE</text>
+      <text x="208" y="84" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="15" letter-spacing="0.6">MISSED OPPONENT THREAT</text>
+      <line x1="208" y1="102" x2="314" y2="102" stroke="#D0D7DE"/>
+      <text x="208" y="136" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="18" letter-spacing="0.9">LESSON</text>
+      <text x="208" y="164" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+        <tspan x="208" dy="0">Open lines &amp;</tspan>
+        <tspan x="208" dy="18">threat awareness</tspan>
+      </text>
+      <line x1="208" y1="192" x2="314" y2="192" stroke="#D0D7DE"/>
+      <text x="208" y="220" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="18" letter-spacing="0.9">HOMEWORK</text>
+      <text x="208" y="244" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+        <tspan x="208" dy="0">Targeted practice</tspan>
+        <tspan x="208" dy="20">from this mistake</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
