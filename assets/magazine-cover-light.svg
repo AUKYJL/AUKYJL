@@ -5,22 +5,22 @@
   <line x1="32" y1="33" x2="1168" y2="33" stroke="#D0D7DE"/>
   <rect x="16" y="16" width="1168" height="488" rx="10" fill="none" stroke="#D0D7DE"/>
   <text x="48" y="68" fill="#656D76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20">001</text>
-  <text x="1068" y="68" fill="#1F2328" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="1.8">AUKYJL / 2026</text>
   <text x="48" y="212" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="122" letter-spacing="2">AUKYJL</text>
   <text x="48" y="304" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="62" letter-spacing="1.5">FULLSTACK</text>
   <text x="48" y="372" fill="#1F2328" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="62" letter-spacing="1.5">DEVELOPER</text>
   <text x="52" y="424" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="28">
-    <tspan x="52" dy="0">I build web products with</tspan>
-    <tspan x="52" dy="34">React, Next.js, TypeScript</tspan>
-    <tspan x="52" dy="34">and NestJS.</tspan>
+    <tspan x="52" dy="0">I build fullstack web products</tspan>
+    <tspan x="52" dy="34">from interface to API and data.</tspan>
   </text>
   <g transform="translate(748 132)">
-    <text x="0" y="0" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">INTERFACE / React / TypeScript</text>
-    <line x1="0" y1="24" x2="324" y2="24" stroke="#D0D7DE"/>
-    <text x="0" y="74" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">WEB / Next.js</text>
-    <line x1="0" y1="98" x2="324" y2="98" stroke="#D0D7DE"/>
-    <text x="0" y="148" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">BACKEND / NestJS / PostgreSQL</text>
-    <line x1="0" y1="172" x2="324" y2="172" stroke="#D0D7DE"/>
+    <text x="0" y="0" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">SCOPE</text>
+    <text x="0" y="42" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">INTERFACE → API → DATA</text>
+    <line x1="0" y1="68" x2="324" y2="68" stroke="#D0D7DE"/>
+    <text x="0" y="122" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">APPROACH</text>
+    <text x="0" y="164" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">END-TO-END WEB PRODUCTS</text>
+    <line x1="0" y1="190" x2="324" y2="190" stroke="#D0D7DE"/>
+    <text x="0" y="244" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">FOCUS</text>
+    <text x="0" y="286" fill="#1F2328" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="0.6">PRODUCT ENGINEERING</text>
   </g>
   <text x="748" y="452" fill="#0969DA" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" letter-spacing="1.4">GITHUB / AUKYJL</text>
 </svg>
