@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" role="img" aria-labelledby="title desc">
+  <title id="title">AUKYJL Telegram footer row</title>
+  <desc id="desc">Separate Telegram contact row for the README magazine footer.</desc>
+  <rect width="1200" height="44" fill="#0D1117"/>
+  <line x1="32" y1="8" x2="1168" y2="8" stroke="#30363D"/>
+  <line x1="32" y1="36" x2="1168" y2="36" stroke="#30363D"/>
+
+  <a href="https://t.me/AUKYJL">
+    <text x="1152" y="27" text-anchor="end" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" letter-spacing="1">TELEGRAM ↗</text>
+  </a>
+</svg>

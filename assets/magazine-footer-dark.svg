@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 144" role="img" aria-labelledby="title desc">
   <title id="title">AUKYJL editorial footer</title>
-  <desc id="desc">Dark footer for the README magazine layout with the AUKYJL wordmark, role lines, GitHub and Telegram links, and the issue date.</desc>
+  <desc id="desc">Dark footer for the README magazine layout with the AUKYJL wordmark, role lines, and the issue date.</desc>
   <rect width="1200" height="144" fill="#0D1117"/>
   <line x1="32" y1="18" x2="1168" y2="18" stroke="#30363D"/>
   <line x1="32" y1="126" x2="1168" y2="126" stroke="#30363D"/>
@@ -15,12 +15,6 @@
   </g>
 
   <g text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
-    <a href="https://github.com/AUKYJL">
-      <text x="1152" y="58" fill="#58A6FF" font-size="19" letter-spacing="1">GITHUB ↗</text>
-    </a>
-    <a href="https://t.me/AUKYJL">
-      <text x="1152" y="84" fill="#58A6FF" font-size="19" letter-spacing="1">TELEGRAM ↗</text>
-    </a>
-    <text x="1152" y="112" fill="#8B949E" font-size="17" letter-spacing="1.1">END OF ISSUE 001</text>
+    <text x="1152" y="90" fill="#8B949E" font-size="17" letter-spacing="1.1">END OF ISSUE 001</text>
   </g>
 </svg>

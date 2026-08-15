@@ -72,5 +72,6 @@
 <!-- MAGAZINE:END ACTIVITY -->
 
 <!-- MAGAZINE:BEGIN FOOTER -->
-<img src="assets/magazine-footer-dark.svg" alt="Editorial footer for AUKYJL with fullstack role lines, GitHub and Telegram labels, and the 2026 end-of-issue note." width="100%">
+<img src="assets/magazine-footer-dark.svg" alt="Editorial footer for AUKYJL with fullstack role lines and the 2026 end-of-issue note." width="100%">
+<img src="assets/magazine-footer-telegram-dark.svg" alt="Editorial Telegram contact row for AUKYJL." width="100%">
 <!-- MAGAZINE:END FOOTER -->
