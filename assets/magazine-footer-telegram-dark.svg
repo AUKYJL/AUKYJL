@@ -5,7 +5,5 @@
   <line x1="32" y1="8" x2="1168" y2="8" stroke="#30363D"/>
   <line x1="32" y1="36" x2="1168" y2="36" stroke="#30363D"/>
 
-  <a href="https://t.me/AUKYJL">
-    <text x="1152" y="27" text-anchor="end" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" letter-spacing="1">TELEGRAM ↗</text>
-  </a>
+  <text x="1152" y="27" text-anchor="end" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" letter-spacing="1">TELEGRAM ↗</text>
 </svg>
