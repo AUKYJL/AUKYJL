@@ -19,11 +19,13 @@
 <!-- MAGAZINE:END CORE_STACK -->
 
 <!-- MAGAZINE:BEGIN CHESS_INTRO -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/magazine-chess-intro-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/magazine-chess-intro-light.svg">
-  <img src="assets/magazine-chess-intro-dark.svg" alt="Editorial featured case introducing Chess Coach Copilot as an AI assistant for chess coaches." width="100%">
-</picture>
+<a href="https://github.com/AUKYJL/chess-coach-copilot">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/magazine-chess-intro-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/magazine-chess-intro-light.svg">
+    <img src="assets/magazine-chess-intro-dark.svg" alt="Editorial featured case introducing Chess Coach Copilot as an AI assistant for chess coaches." width="100%">
+  </picture>
+</a>
 <!-- MAGAZINE:END CHESS_INTRO -->
 
 <!-- MAGAZINE:BEGIN CHESS_FLOW -->
