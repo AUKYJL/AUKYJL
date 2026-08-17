@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-08-15  COMMIT  AUKYJL       ff2819e  chore:change number
-2026-08-15  COMMIT  AUKYJL       ddbd75c  feat: update py script
-2026-08-15  CREATE  AUKYJL                branch main
-2026-07-16  COMMIT  rialtorg-v2  28619d4  init
-2026-06-24  COMMIT  url-checker  372267f  feat(front): add tooltip
+2026-08-16  COMMIT  chess-coach-copilot  c3fcf78  refactor(be): simplify progress and analysis job types
+2026-08-16  COMMIT  chess-coach-copilot  178b88e  feat(reports): update reports flow
+2026-08-16  COMMIT  AUKYJL               49db1a4  feat: add link text
+2026-08-16  COMMIT  AUKYJL               7a87d24  feat: add chess coach copilot link
+2026-08-16  CREATE  chess-coach-copilot           branch main
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
