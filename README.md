@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
+2026-08-19  CREATE  polza                         branch main
+2026-08-19  COMMIT  polza                25358ac  feat: add report
+2026-08-19  COMMIT  polza                95974de  feat: add docker
+2026-08-19  COMMIT  polza                cde115c  feat: add load review
 2026-08-16  COMMIT  chess-coach-copilot  c3fcf78  refactor(be): simplify progress and analysis job types
-2026-08-16  COMMIT  chess-coach-copilot  178b88e  feat(reports): update reports flow
-2026-08-16  COMMIT  AUKYJL               49db1a4  feat: add link text
-2026-08-16  COMMIT  AUKYJL               7a87d24  feat: add chess coach copilot link
-2026-08-16  CREATE  chess-coach-copilot           branch main
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
