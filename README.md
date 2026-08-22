@@ -69,9 +69,9 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-08-20  COMMIT  chess-coach-copilot  663e3c8  fix(be): improve engine analysis recovery and candidate ranking
-2026-08-20  COMMIT  chess-coach-copilot  ebf1608  feat(be): add Stockfish recovery and SAN hardening
-2026-08-20  COMMIT  chess-coach-copilot  1051190  feat(be): integrate Stockfish into PGN analysis pipeline
+2026-08-21  COMMIT  chess-coach-copilot  b1ac081  feat(fe): update analysis page
+2026-08-21  COMMIT  chess-coach-copilot  16ecd78  feat(be): improve analysis jobs
+2026-08-20  COMMIT  chess-coach-copilot  31e3f7a  feat: add import pgn without analysis
 2026-08-19  CREATE  polza                         branch main
 2026-08-19  COMMIT  polza                25358ac  feat: add report
 ```
