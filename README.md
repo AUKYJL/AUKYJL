@@ -72,8 +72,8 @@
 2026-08-21  COMMIT  chess-coach-copilot  b1ac081  feat(fe): update analysis page
 2026-08-21  COMMIT  chess-coach-copilot  16ecd78  feat(be): improve analysis jobs
 2026-08-20  COMMIT  chess-coach-copilot  31e3f7a  feat: add import pgn without analysis
-2026-08-19  CREATE  polza                         branch main
 2026-08-19  COMMIT  polza                25358ac  feat: add report
+2026-08-19  COMMIT  polza                95974de  feat: add docker
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
