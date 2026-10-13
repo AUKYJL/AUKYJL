@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-10-01  COMMIT  green-api   9e210a1  chore: readme
-2026-10-01  COMMIT  green-api   34e4a97  fix: remove seeded chat messages
-2026-10-01  COMMIT  green-api   a469409  feat: add github actions
-2026-10-01  CREATE  ooo-apr              branch main
-2026-10-01  COMMIT  ooo-apr     210a1da  feat: feat
+2026-10-01  COMMIT  green-api         9e210a1  chore: readme
+2026-10-01  COMMIT  green-api         34e4a97  fix: remove seeded chat messages
+2026-10-01  COMMIT  green-api         a469409  feat: add github actions
+2026-10-01  COMMIT  ooo-apr           210a1da  feat: feat
+2026-09-30  COMMIT  devops-kr-mirror  10b1bfa  feat: add phone validation (#1)
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
