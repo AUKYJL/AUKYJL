@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-10-26  CREATE  apmcom               branch main
-2026-10-26  COMMIT  apmcom      8f87526  chore: change gitignore
-2026-10-26  COMMIT  apmcom      370a1a8  feat: add csv export
-2026-10-26  COMMIT  apmcom      46fa5d0  fix: fix email casing login problem
-2026-10-01  COMMIT  green-api   9e210a1  chore: readme
+2026-10-29  PR      devops-kr2                   OPENED #1 pull request
+2026-10-29  PR      devops-course-2026           MERGED #2 pull request
+2026-10-29  COMMIT  devops-course-2026  eec9d8f  Merge pull request #2 from AUKYJL/feature/docker
+2026-10-29  PR      devops-course-2026           OPENED #2 pull request
+2026-10-29  COMMIT  devops-course-2026  7fbc2d0  feat: add container audit and documentation
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
