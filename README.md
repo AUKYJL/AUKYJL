@@ -70,10 +70,10 @@
 
 ```text
 2026-10-29  PR      devops-kr2                   OPENED #1 pull request
-2026-10-29  PR      devops-course-2026           MERGED #2 pull request
+2026-10-29  CREATE  devops-kr2                   branch main
 2026-10-29  COMMIT  devops-course-2026  eec9d8f  Merge pull request #2 from AUKYJL/feature/docker
-2026-10-29  PR      devops-course-2026           OPENED #2 pull request
 2026-10-29  COMMIT  devops-course-2026  7fbc2d0  feat: add container audit and documentation
+2026-10-29  CREATE  devops-course-2026           branch feature/docker
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
