@@ -69,7 +69,7 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-10-29  PR      devops-kr2                   OPENED #1 pull request
+2026-10-29  CREATE  devops-kr2                   branch kr2/variant-3
 2026-10-29  CREATE  devops-kr2                   branch main
 2026-10-29  COMMIT  devops-course-2026  eec9d8f  Merge pull request #2 from AUKYJL/feature/docker
 2026-10-29  COMMIT  devops-course-2026  7fbc2d0  feat: add container audit and documentation
