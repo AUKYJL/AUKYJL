@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-10-29  CREATE  devops-kr2                   branch kr2/variant-3
-2026-10-29  CREATE  devops-kr2                   branch main
-2026-10-29  COMMIT  devops-course-2026  eec9d8f  Merge pull request #2 from AUKYJL/feature/docker
-2026-10-29  COMMIT  devops-course-2026  7fbc2d0  feat: add container audit and documentation
-2026-10-29  CREATE  devops-course-2026           branch feature/docker
+2026-11-05  COMMIT  crm-2b-studio  820d508  feat: add vercel.json
+2026-11-05  CREATE  crm-2b-studio           branch main
+2026-11-05  COMMIT  crm-2b-studio  29b2d02  feat: add security test
+2026-11-05  COMMIT  crm-2b-studio  75f13f2  feat: add tasks
+2026-10-29  CREATE  devops-kr2              branch kr2/variant-3
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
