@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-11-05  COMMIT  crm-2b-studio  820d508  feat: add vercel.json
-2026-11-05  CREATE  crm-2b-studio           branch main
-2026-11-05  COMMIT  crm-2b-studio  29b2d02  feat: add security test
-2026-11-05  COMMIT  crm-2b-studio  75f13f2  feat: add tasks
-2026-10-29  CREATE  devops-kr2              branch kr2/variant-3
+2026-11-11  PR      Jewelry-Shop                        OPENED #2 pull request
+2026-11-11  PR      rtumirea-sc-goodbattle-fe           OPENED #1 pull request
+2026-11-11  PR      volley72                            OPENED #1 pull request
+2026-11-11  COMMIT  green-api                  6f75792  ci: restore
+2026-11-11  COMMIT  green-api                  d7979a5  ci: refresh build cache
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
