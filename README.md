@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-11-11  PR      Jewelry-Shop                        OPENED #2 pull request
-2026-11-11  PR      rtumirea-sc-goodbattle-fe           OPENED #1 pull request
-2026-11-11  PR      volley72                            OPENED #1 pull request
-2026-11-11  COMMIT  green-api                  6f75792  ci: restore
-2026-11-11  COMMIT  green-api                  d7979a5  ci: refresh build cache
+2026-11-12  COMMIT  green-api            65e314b  ci: restore
+2026-11-12  COMMIT  green-api            0d458c0  ci: refresh build cache
+2026-11-12  COMMIT  green-api            babdeb3  ci: restore
+2026-11-11  DELETE  volley72                      branch chore/rybg105r
+2026-11-11  DELETE  RussianEGEMobileApp           branch chore/macijwj5
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
