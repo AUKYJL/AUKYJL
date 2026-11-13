@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-11-12  COMMIT  green-api            65e314b  ci: restore
-2026-11-12  COMMIT  green-api            0d458c0  ci: refresh build cache
-2026-11-12  COMMIT  green-api            babdeb3  ci: restore
-2026-11-11  DELETE  volley72                      branch chore/rybg105r
-2026-11-11  DELETE  RussianEGEMobileApp           branch chore/macijwj5
+2026-11-12  COMMIT  green-api                      65e314b  ci: restore
+2026-11-12  COMMIT  green-api                      0d458c0  ci: refresh build cache
+2026-11-12  DELETE  krkp-be                                 branch chore/m4m7wdyp
+2026-11-12  COMMIT  green-api                      babdeb3  ci: restore
+2026-11-12  DELETE  frameworks-individual-project           branch chore/5zs4o0oz
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
