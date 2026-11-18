@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
+2026-11-18  COMMIT  devops-docs   119c14c  ci: add pylint check for main and pull requests
+2026-11-18  COMMIT  devops-docs   6ab6dbf  docs: add operations handbook skeleton
+2026-11-18  COMMIT  devops-docs   6686f58  Initial commit
 2026-11-16  COMMIT  ozon-js-test  fbfcc6a  feat: feat
 2026-11-12  CREATE  ooo-apr                branch chore/tkjqcw0d
-2026-11-12  DELETE  krkp-be                branch chore/p3y4hkcy
-2026-11-12  COMMIT  green-api     65e314b  ci: restore
-2026-11-12  COMMIT  green-api     0d458c0  ci: refresh build cache
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
