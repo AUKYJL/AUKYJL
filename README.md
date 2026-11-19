@@ -69,11 +69,11 @@
 <img src="assets/magazine-activity-heading-dark.svg" alt="Editorial heading for recent activity." width="100%">
 
 ```text
-2026-11-18  COMMIT  devops-docs   119c14c  ci: add pylint check for main and pull requests
-2026-11-18  COMMIT  devops-docs   6ab6dbf  docs: add operations handbook skeleton
-2026-11-18  COMMIT  devops-docs   6686f58  Initial commit
-2026-11-16  COMMIT  ozon-js-test  fbfcc6a  feat: feat
-2026-11-12  CREATE  ooo-apr                branch chore/tkjqcw0d
+2026-11-19  PR      devops-ci-app           MERGED #2 pull request
+2026-11-19  COMMIT  devops-ci-app  6438e09  Merge pull request #2 from AUKYJL/fix/gunicorn-entrypoint
+2026-11-19  COMMIT  devops-ci-app  2f98ee1  fix: use full gunicorn application entrypoint
+2026-11-19  PR      devops-ci-app           OPENED #2 pull request
+2026-11-19  COMMIT  devops-ci-app  1124079  fix: shorten gunicorn application path
 ```
 <!-- MAGAZINE:END ACTIVITY -->
 
